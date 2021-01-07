@@ -29,7 +29,7 @@ namespace SmartOrder.API.Model
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=sql6007.site4now.net;Database=DB_A25A8E_orderspapi;User Id=DB_A25A8E_orderspapi_admin;Password=h2kC8hNX5;");
+                
             }
         }
 
